@@ -23,3 +23,7 @@ No arquivo **scripts.py** vamos modificar 4 posições.
 ![alt text](./assets/code.png)
 
 Após as modificações basta executar o script e profitar, veja o video de exemplo.
+
+Importante que o albion deve estar com o mercado aberto na parte de venda antes de iniciar o script conforme imagem abaixo.
+
+![alt text](./assets/mercado.png.png)
