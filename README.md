@@ -21,3 +21,5 @@ o arquivo **position.py** vai auxiliar a encontrar a posição correta.
 No arquivo **scripts.py** vamos modificar 4 posições.
 
 ![alt text](./assets/code.png)
+
+Após as modificações basta executar o script e profitar, veja o video de exemplo.
