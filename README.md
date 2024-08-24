@@ -5,7 +5,8 @@ Necessário instalar a lib pyautogui.
 https://pyautogui.readthedocs.io/en/latest/install.html
 
 ```
-py -m pip install pyautogui
+pip install pyautogui
+pip3 install pyautogui
 
 ```
 
