@@ -8,8 +8,8 @@ def venderItens(number):
     timeSleep = 0.3
 
     for i in range(number):
-        if keyboard.is_pressed('esc'):
-            print("Execução interrompida pela tecla 'Esc'.")
+        if keyboard.is_pressed('1'):
+            print("Execução interrompida.")
             break
 
         ## Mover para vender
@@ -24,4 +24,4 @@ def venderItens(number):
         pyautogui.click(x=905, y=683, clicks=1, button='left')
         time.sleep(timeSleep)
 
-venderItens(8)
+venderItens(48)
